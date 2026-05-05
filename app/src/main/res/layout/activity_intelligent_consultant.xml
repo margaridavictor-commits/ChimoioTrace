@@ -27,6 +27,22 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Clique no botão para obter uma dica baseada na categoria do lote."
+        android:textSize="16sp"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/getWeatherButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Obter Clima"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/weatherTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Clima será exibido aqui."
         android:textSize="16sp" />
 
 </LinearLayout>
