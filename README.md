@@ -57,7 +57,7 @@ Este projeto está licenciado sob a MIT License.
 
 ## Contacto
 
-Para mais informações, contacte [seu email ou nome].
+Para mais informações, contacte [margarida.victor@data4com].
 
 ---
 
